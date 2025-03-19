@@ -94,3 +94,22 @@ I'm currently working on building a secure and functional Active Directory (AD) 
 1. Using PowerShell to create users, create GPOs, and change passwords.
 2. Automating Active Directory tasks with PowerShell.
 3. Creating a tree structure for multiple root domains.
+
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/5525a6e0-1fdc-4a5f-afdb-fca816213679)
+
+           Fg 1. AD Installation Process
+
+
+![Image](https://github.com/user-attachments/assets/21cf1299-195f-485a-a470-fbcf22b73d77)
+
+        Fg 2. Setup Root Domain Password
+
+
+
+![Image](https://github.com/user-attachments/assets/cabfcbb7-9bfc-442b-9b88-23576bc48136)
+         
+        Fg 3. Setting New Doamin Local
+
+
