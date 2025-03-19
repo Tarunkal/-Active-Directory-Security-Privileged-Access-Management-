@@ -15,14 +15,14 @@ I'm currently working on building a secure and functional Active Directory (AD) 
    - Promote the server to a **Domain Controller** with DNS and Global **Catalog** roles.
 
 3. **Create a New Forest and Domain**
-   - Specify the root domain name as `_WindowAD.local_`.
+   - Specify the root domain name as `WindowAD.local`.
    - Configure the **Directory Services Restore Mode (DSRM)** password.
 
 4. **Organizational Unit (OU) Structure Creation**
-   - Create the following OUs under `_Homelab_`:
+   - Create the following OUs under `Homelab`:
      - IT  
      - HR  
-     - Finance  
+     - Management 
      - Marketing  
    - Add respective users and computer accounts to their designated OUs.
 5. **Group Policy Configuration**
@@ -57,6 +57,18 @@ I'm currently working on building a secure and functional Active Directory (AD) 
 ## Key Features and Configurations
 1. **Active Directory Installation**
    - Installed Active Directory Domain Services (AD DS)
-   - Created a new forest with the root domain name: `_WindowAD.local_`
+   - Created a new forest with the root domain name: `WindowAD.local`
    - Configured DNS and Global Catalog (GC) roles
+  
+2. **Organizational Unit (OU) Structure**
+   - Created an IT Department OU under `Homelab`
+   - Created OUs for all other departments under `Homelab`
+   - Added multiple user accounts and computer objects for structured access control
+
+3. **Group Policy Management (GPO)**
+   - Modified password policy to enforce stronger security measures:
+     - Enforced password history: 24 passwords remembered
+     - Maximum password age: 42 days
+     - Minimum password length: 6 characters
+     - Password complexity requirements: Enabled
 
