@@ -71,4 +71,26 @@ I'm currently working on building a secure and functional Active Directory (AD) 
      - Maximum password age: 42 days
      - Minimum password length: 6 characters
      - Password complexity requirements: Enabled
+    
+4. **Computer Account Management**
+   - Created new computer objects in the IT OU for endpoint management
+   - Ensured computer accounts are properly registered with the AD domain
+  
+5. **PowerShell Automation for Delegation and Password Control (In Progress)**
+   - Delegating IT team members with permissions to reset passwords for users in other departments
+   - Automating user creation and password management using PowerShell
+   - Setting a single login password for all users and enforcing password change on first login
 
+## How to Set Up the Lab 
+ 1. Install Windows Server 2016 and configure it as a Domain Controller.
+ 2. Create OUs for your organizational structure.
+ 3. Add users and computers to their respective OUs.
+ 4. Implement Group Policy configurations to enforce security policies.
+ 5. Use PowerShell to automate user creation, delegation, and password enforcement.
+ 6. Monitor and manage the environment for improved AD security.
+
+## 🚀 More Enhancements Coming Soon!
+
+1. Using PowerShell to create users, create GPOs, and change passwords.
+2. Automating Active Directory tasks with PowerShell.
+3. Creating a tree structure for multiple root domains.
