@@ -42,11 +42,7 @@ I'm currently working on building a secure and functional Active Directory (AD) 
    - Automate user creation and password management using PowerShell.  
    - Set a **single logon password** for all users and enforce **password change on first login** using PowerShell scripts.  
 
-8. **Future Enhancements**
-   - Implement **Sysmon** for advanced endpoint monitoring.  
-   - Integrate **CrowdSec** for enhanced threat intelligence.  
-   - Deploy **BadBlood** to simulate AD misconfigurations and improve security hardening techniques.
-      
+
 ## Tools and Technology Used
   - Windows Server 2016 (Domain Controller)
   - Active Directory Domain Services (AD DS)
@@ -94,6 +90,10 @@ I'm currently working on building a secure and functional Active Directory (AD) 
 1. Using PowerShell to create users, create GPOs, and change passwords.
 2. Automating Active Directory tasks with PowerShell.
 3. Creating a tree structure for multiple root domains.
+4. Implement **Sysmon** for advanced endpoint monitoring.
+5. Integrate **CrowdSec** for enhanced threat intelligence.
+6. Deploy **BadBlood** to simulate AD misconfigurations and improve security hardening techniques.
+      
 
 ## Screenshots
 
