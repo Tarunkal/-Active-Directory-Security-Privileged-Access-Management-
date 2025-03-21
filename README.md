@@ -112,4 +112,28 @@ I'm currently working on building a secure and functional Active Directory (AD) 
          
         Fg 3. Setting New Doamin Local
 
+![Image](https://github.com/user-attachments/assets/77bd185b-e568-4816-98fb-ea835af5fa82)
 
+         Fg 4. organization unit Active Directory
+
+![Image](https://github.com/user-attachments/assets/99d34f81-dbbb-41f1-b104-3a366daa7a83)
+
+         Fg 5. AD Users
+
+![Image](https://github.com/user-attachments/assets/75b01f85-6051-4d15-8107-f287e1f18590)
+
+         Fg 6. AD Machines
+
+![Changing Computer properties](https://github.com/user-attachments/assets/4d1cf726-faab-4f58-8f71-15d599d8ed2d)
+
+           Fg 7. Machine owner
+         
+
+ ![Image](https://github.com/user-attachments/assets/9b16048c-fd2f-4974-8452-ae1667c23b45)
+
+         Fg 8. DC Linked GPO 
+
+ ![Image](https://github.com/user-attachments/assets/eb203407-a1de-40e9-b770-dd02cb5f349d)
+
+         Fg 9. Changing password policy in GPO
+        
