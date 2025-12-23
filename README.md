@@ -84,15 +84,6 @@ I'm currently working on building a secure and functional Active Directory (AD) 
  4. Implement Group Policy configurations to enforce security policies.
  5. Use PowerShell to automate user creation, delegation, and password enforcement.
  6. Monitor and manage the environment for improved AD security.
-
-## 🚀 More Enhancements Coming Soon!
-
-1. Using PowerShell to create users, create GPOs, and change passwords.
-2. Automating Active Directory tasks with PowerShell.
-3. Creating a tree structure for multiple root domains.
-4. Implement **Sysmon** for advanced endpoint monitoring.
-5. Integrate **CrowdSec** for enhanced threat intelligence.
-6. Deploy **BadBlood** to simulate AD misconfigurations and improve security hardening techniques.
       
 
 ## Screenshots
